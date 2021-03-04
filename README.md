@@ -1,6 +1,10 @@
 # mealco-platform-demo
 
 Docs:
-* [function1](/function1/README.md)
-* [function2](/function2/README.md)
-* [frontend-app](/frontend-app/README.md)
+
+* [function1](cloud-functions/function1.md)
+* [function2](cloud-functions/function2.md)
+* [frontend-app](frontend-app.md)
+
+
+
