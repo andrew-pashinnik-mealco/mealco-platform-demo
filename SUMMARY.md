@@ -9,6 +9,7 @@
     * [Cloud Functions](docs/codebase/cloud-functions/README.md)
       * [Function 1](docs/codebase/cloud-functions/function1.md)
       * [Function 2](docs/codebase/cloud-functions/function2.md)
-
-## Cloud Functions
+* [Regression Tests Protocol](untitled.md)
+* [Changelog demo](changelog-demo.md)
+* [System Updates](untitled-1.md)
 
