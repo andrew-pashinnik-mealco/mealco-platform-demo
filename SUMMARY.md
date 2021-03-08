@@ -2,10 +2,13 @@
 
 * [mealco-platform-demo](README.md)
 * [Docs](docs/README.md)
-  * [Cloud Functions](docs/cloud-functions/README.md)
-    * [Function 1](docs/cloud-functions/function1.md)
-    * [Function 2](docs/cloud-functions/function2.md)
-  * [Frontend App](docs/frontend-app.md)
+  * [Guides](docs/guides/README.md)
+    * [How to publish NPM package](docs/guides/how-to-publish-npm-package.md)
+  * [Codebase](docs/codebase/README.md)
+    * [Frontend App](docs/codebase/frontend-app.md)
+    * [Cloud Functions](docs/codebase/cloud-functions/README.md)
+      * [Function 1](docs/codebase/cloud-functions/function1.md)
+      * [Function 2](docs/codebase/cloud-functions/function2.md)
 
 ## Cloud Functions
 

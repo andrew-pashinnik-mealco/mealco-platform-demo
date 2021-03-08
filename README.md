@@ -2,9 +2,9 @@
 
 Docs:
 
-* [function1](docs/cloud-functions/function1.md)
-* [function2](docs/cloud-functions/function2.md)
-* [frontend-app](docs/frontend-app.md)
+* [function1](docs/codebase/cloud-functions/function1.md)
+* [function2](docs/codebase/cloud-functions/function2.md)
+* [frontend-app](docs/codebase/frontend-app.md)
 
 
 
